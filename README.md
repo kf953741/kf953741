@@ -7,18 +7,28 @@
 **AI Research & Engineering · [Skywork AI](https://github.com/SkyworkAI)**  
 World Models · Embodied Intelligence · World Action Models · Model Post-Training
 
-[Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
+[Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Data Engine](#featured-contribution--world-model-data-engine) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
 
 I work on **world models, embodied foundation models, and model post-training** at Skywork AI. My work spans interactive world generation, robot learning, and **World Action Models (WAMs)**, supported by a background in 3D engines and simulation.
 
-I am a co-author of **Riemann-1.0, Matrix-3D, and the Matrix-Game series (1.0–3.5)**. Across these projects, I am interested in how models represent the world, predict the consequences of actions, and acquire capabilities for real interaction.
+I **pioneered and built an Unreal Engine-based data-generation pipeline for interactive world models**, connecting controllable 3D simulation with scalable model training. I am also a co-author of **Riemann-1.0, Matrix-3D, and the Matrix-Game series (1.0–3.5)**.
+
+## Featured Contribution — World-Model Data Engine
+
+**Designed and built the Unreal Engine data pipeline from the ground up.**
+
+I turned controllable 3D environments into a scalable source of **precisely aligned video, action, and camera supervision** for world-model training. The pipeline combines automated navigation, precise input and camera control, synchronized recording, data curation, and parallel production.
+
+- **Training impact:** Matrix-Game 2.0 reports **615 hours of Unreal Engine training data** generated through its data-production pipeline.
+- **Technical record:** The system is documented in [Matrix-Game 2.0, §3.1](https://arxiv.org/html/2508.13009); the later Unreal data system is described in [Matrix-Game 3.0, §4.1](https://arxiv.org/html/2604.08995).
+- **Research recognition:** A subsequent [Unreal Engine data-production study from JD and collaborators](https://arxiv.org/html/2609.03557) explicitly discusses Matrix-Game 3.0's data engine in its related work on world-model data construction (§2.2).
 
 ## Areas of Work
 
 - **World models & WAMs** — Interactive generation, visual dynamics, action conditioning, and long-horizon consistency.
 - **Embodied AI** — Robotic foundation models and the connection between world simulation and executable policies.
 - **Model post-training** — Task adaptation and capability refinement for downstream use.
-- **3D engines & simulation** — Unreal Engine, controllable environments, and synthetic data for AI.
+- **World-model data infrastructure** — Unreal Engine-based synthetic-data generation, controllable environments, and aligned training supervision.
 
 ## Selected Research
 
@@ -58,7 +68,7 @@ Co-author. Connects trajectory-guided panoramic video diffusion with 3D reconstr
 
 | Project | Research focus | Links |
 | :--- | :--- | :--- |
-| **Matrix-Game 2.0** · 2025 | Co-author. Few-step autoregressive diffusion for real-time, action-conditioned video generation at **25 FPS**. | [Paper](https://arxiv.org/abs/2508.13009) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) |
+| **Matrix-Game 2.0** · 2025 | Co-author; designed and built the Unreal Engine data-generation pipeline. Real-time, action-conditioned video generation at **25 FPS**. | [Paper](https://arxiv.org/abs/2508.13009) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) |
 | **Matrix-Game** · 2025 | Co-author. A **17B** interactive world foundation model for controllable Minecraft generation, with the GameWorld Score benchmark. | [Paper](https://arxiv.org/abs/2506.18701) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-1) |
 
 <sub>Performance figures describe the respective research systems under their reported evaluation settings; see the linked papers for details.</sub>

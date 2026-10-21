@@ -27,7 +27,7 @@ I build **world models and embodied AI systems**, working across simulation data
     </td>
     <td width="50%" align="center">
       <a href="https://matrix-game-v3.github.io/">
-        <img src="https://matrix-game-v3.github.io/static/imgs/memory_frames/30s_031_late.jpg" alt="Matrix-Game 3.0: generated world with keyboard action controls" width="100%" />
+        <img src="assets/matrix-game-3-preview.jpg" alt="Matrix-Game 3.0: nine action-controlled world-generation demos" width="100%" />
         <br /><strong>Matrix-Game 3.0 · World Demos ↗</strong>
       </a>
     </td>

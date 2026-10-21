@@ -8,7 +8,7 @@
 Former **3D Engine Technical Expert · [Tencent](https://github.com/Tencent)**  
 World Models · Embodied Intelligence · World Action Models · Model Post-Training
 
-[Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Data Engine](#featured-contribution--world-model-data-engine) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
+[Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Data Engine](#featured-contribution--world-model-data-engine) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Media](#media-coverage) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
 
 I work on **world models, embodied foundation models, and model post-training** at Skywork AI. My work spans interactive world generation, robot learning, and **World Action Models (WAMs)**, supported by a background in 3D engines and simulation.
 
@@ -67,6 +67,26 @@ Co-author. Connects trajectory-guided panoramic video diffusion with 3D reconstr
 | **Matrix-Game** · 2025 | Co-author. A **17B** interactive world foundation model for controllable Minecraft generation, with the GameWorld Score benchmark. | [Paper](https://arxiv.org/abs/2506.18701) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-1) |
 
 <sub>Performance figures describe the respective research systems under their reported evaluation settings; see the linked papers for details.</sub>
+
+## Media Coverage
+
+### Riemann-1.0
+
+- [量子位 — 看了20万小时「人类干活实录」，机器人悟了](https://www.qbitai.com/2026/07/454592.html)
+- [新浪科技 — 机器人进入世界模型时代，Riemann-1.0如何破解泛化难题？](https://finance.sina.com.cn/tech/it/2026-07-20/doc-iniimuyc2999043.shtml)
+
+### Matrix-Game 3.0
+
+- [量子位 — 国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了](https://www.qbitai.com/2026/03/392835.html)
+
+### Matrix-Game 2.0
+
+- [IT之家 — AI 生成游戏，Matrix-Game 2.0、Matrix-3D 发布并开源](https://www.ithome.com/0/874/688.htm)
+- [量子位 — 一周六连发！昆仑万维将多模态AI卷到了新高度](https://www.qbitai.com/2025/08/322418.html)
+
+### Matrix-3D
+
+- [量子位 — Matrix-3D：一张图建模游戏场景](https://www.qbitai.com/2025/08/321401.html)
 
 ## Engineering & Open Source
 

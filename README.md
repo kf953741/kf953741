@@ -15,7 +15,7 @@ I **pioneered and built the Unreal Engine-based data-generation pipeline introdu
 
 ## Featured Contribution — World-Model Data Engine
 
-Designed and built the **Unreal Engine data pipeline for [Matrix-Game 2.0](https://arxiv.org/abs/2508.13009)**, enabling scalable, precisely aligned video–action data for world-model training.
+**Pioneered the use of Unreal Engine to generate precisely synchronized action–video pairs for interactive world-model training**, designing and building the pipeline introduced in [Matrix-Game 2.0](https://arxiv.org/abs/2508.13009).
 
 ## Areas of Work
 

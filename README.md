@@ -11,11 +11,11 @@ World Models · Embodied Intelligence · World Action Models · Model Post-Train
 
 I work on **world models, embodied foundation models, and model post-training** at Skywork AI. My work spans interactive world generation, robot learning, and **World Action Models (WAMs)**, supported by a background in 3D engines and simulation.
 
-I **pioneered and built an Unreal Engine-based data-generation pipeline for interactive world models**, connecting controllable 3D simulation with scalable model training. I am also a co-author of **Riemann-1.0, Matrix-3D, and the Matrix-Game series (1.0–3.5)**.
+I **pioneered and built the Unreal Engine-based data-generation pipeline introduced in Matrix-Game 2.0 (2025)**, connecting controllable 3D simulation with scalable world-model training. I am also a co-author of **Riemann-1.0, Matrix-3D, and the Matrix-Game series (1.0–3.5)**.
 
 ## Featured Contribution — World-Model Data Engine
 
-**Designed and built the Unreal Engine data pipeline from the ground up.**
+**Designed and built from the ground up · Introduced in Matrix-Game 2.0 (2025).**
 
 I turned controllable 3D environments into a scalable source of **precisely aligned video, action, and camera supervision** for world-model training. The pipeline combines automated navigation, precise input and camera control, synchronized recording, data curation, and parallel production.
 

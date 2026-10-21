@@ -1,24 +1,40 @@
 <p align="center">
-  <img src="assets/header.svg" alt="From real-time 3D to interactive worlds" width="100%" />
+  <img src="assets/header.svg" alt="World models and embodied intelligence" width="100%" />
 </p>
 
 # Fei Kang · 康飞
 
-**Interactive World Models · Unreal Engine · Real-Time Systems**
+**AI Research & Engineering · [Skywork AI](https://github.com/SkyworkAI)**  
+World Models · Embodied Intelligence · World Action Models · Model Post-Training
 
-[Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
+[Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
 
-I work at the intersection of **real-time 3D systems and interactive world models**, with a background in Unreal Engine engineering. I am a co-author of **Matrix-Game 1.0, 2.0, 3.0, and 3.5**, a series exploring action-controllable generation, real-time interaction, and long-horizon consistency.
+I work on **world models, embodied foundation models, and model post-training** at Skywork AI. My work spans interactive world generation, robot learning, and **World Action Models (WAMs)**, supported by a background in 3D engines and simulation.
 
-My interests center on connecting game environments with generative models: controllable simulation, synthetic data, spatial memory, and responsive interactive systems.
+I am a co-author of **Riemann-1.0, Matrix-3D, and the Matrix-Game series (1.0–3.5)**. Across these projects, I am interested in how models represent the world, predict the consequences of actions, and acquire capabilities for real interaction.
+
+## Areas of Work
+
+- **World models & WAMs** — Interactive generation, visual dynamics, action conditioning, and long-horizon consistency.
+- **Embodied AI** — Robotic foundation models and the connection between world simulation and executable policies.
+- **Model post-training** — Task adaptation and capability refinement for downstream use.
+- **3D engines & simulation** — Unreal Engine, controllable environments, and synthetic data for AI.
 
 ## Selected Research
+
+### [Riemann-1.0](https://riemann-dynamics.github.io/Riemann-1.0-Website/) · 2026
+
+**An embodied World Action Model for Physical AI.**
+
+Co-author. A causal autoregressive model that unifies **robot policy execution and action-conditioned world simulation**, learning from heterogeneous embodied experience. Reported success rates include **99.0% on LIBERO**, **94.3% on RoboTwin 2.0**, and **85.0% on evaluated long-horizon real-world manipulation tasks**.
+
+[Paper](https://arxiv.org/abs/2608.27033) · [Project & Robot Demos](https://riemann-dynamics.github.io/Riemann-1.0-Website/)
 
 ### [Matrix-Game 3.5](https://matrix-game-v3-5.github.io/) · 2026
 
 **Geometry-aware memory for persistent interactive worlds.**
 
-Co-author. The project combines patch memory and camera conditioning with a static–dynamic world representation and progressive real-time distillation, targeting scene recall, camera control, and subject consistency over long sequences.
+Co-author. Combines patch memory and camera conditioning with a static–dynamic world representation and progressive distillation for long-horizon scene recall, camera control, and subject consistency.
 
 [Paper](https://arxiv.org/abs/2608.29910) · [Code](https://github.com/Riemann-Dynamics/Matrix-Game-3.5) · [Project](https://matrix-game-v3-5.github.io/)
 
@@ -26,9 +42,17 @@ Co-author. The project combines patch memory and camera conditioning with a stat
 
 **Real-time streaming generation with long-horizon memory.**
 
-Co-author. The 5B model achieves **up to 40 FPS at 720p**, with memory consistency over minute-long sequences. The system brings together a scalable data engine, camera-aware memory, and few-step autoregressive generation.
+Co-author. The 5B model achieves **up to 40 FPS at 720p**, with memory consistency over minute-long sequences, combining a scalable data engine, camera-aware memory, and few-step autoregressive generation.
 
 [Paper](https://arxiv.org/abs/2604.08995) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-3) · [Models](https://huggingface.co/Skywork/Matrix-Game-3.0) · [Project](https://matrix-game-v3.github.io/)
+
+### [Matrix-3D](https://matrix-3d.github.io/) · 2025
+
+**Omnidirectional, explorable 3D world generation.**
+
+Co-author. Connects trajectory-guided panoramic video diffusion with 3D reconstruction to generate explorable worlds from text or an image. Introduces **Matrix-Pano**, a synthetic dataset of **116K panoramic video sequences** with depth and trajectory annotations.
+
+[Paper](https://arxiv.org/abs/2508.08086) · [Code](https://github.com/SkyworkAI/Matrix-3D) · [Project](https://matrix-3d.github.io/)
 
 ### Earlier Work
 
@@ -59,5 +83,5 @@ A focused Puerts template with TypeScript runtime startup in `GameInstance`, Typ
 
 ---
 
-**Research interests:** interactive world models · controllable simulation · long-horizon memory · synthetic data  
-**Engineering foundation:** Unreal Engine · C++ · Lua integration · TypeScript tooling
+**Current focus:** world models · embodied AI · WAMs · model post-training  
+**Engineering foundation:** 3D engines · Unreal Engine · C++ · simulation & synthetic data

@@ -50,17 +50,17 @@ Co-author. Geometry-aware memory and camera conditioning for **persistent intera
 
 [Paper](https://arxiv.org/abs/2608.29910) · [Code](https://github.com/Riemann-Dynamics/Matrix-Game-3.5) · [Project](https://matrix-game-v3-5.github.io/)
 
-### [Matrix-Game 3.0](https://matrix-game-v3.github.io/) · 2026
+### [Matrix-3D](https://matrix-3d.github.io/) · 2025
 
-**My contribution: owned data development; contributed to model architecture design.**
+**Omnidirectional, explorable 3D world generation.**
 
-Co-author. Memory-augmented, action-conditioned world generation at **up to 720p / 40 FPS** with the 5B model, maintaining minute-long scene consistency.
+Co-author. Combines trajectory-guided panoramic video generation with **3D reconstruction** to create explorable worlds from text or a single image. Introduces **Matrix-Pano**, a dataset of **116,759 synthetic panoramic video sequences** with camera trajectory annotations.
 
-[Paper](https://arxiv.org/abs/2604.08995) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-3) · [Models](https://huggingface.co/Skywork/Matrix-Game-3.0) · [Demos](https://matrix-game-v3.github.io/)
+[Paper](https://arxiv.org/abs/2508.08086) · [Code](https://github.com/SkyworkAI/Matrix-3D) · [Demos](https://matrix-3d.github.io/)
 
 ### More Research
 
-- **Matrix-3D · 2025** — Co-author. Explorable 3D worlds from text or an image; **116K** panoramic training sequences. [Paper](https://arxiv.org/abs/2508.08086) · [Code](https://github.com/SkyworkAI/Matrix-3D) · [Demos](https://matrix-3d.github.io/)
+- **Matrix-Game 3.0 · 2026** — Co-author; **owned data development and contributed to model architecture design**. Real-time world generation at **up to 720p / 40 FPS**. [Paper](https://arxiv.org/abs/2604.08995) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-3) · [Models](https://huggingface.co/Skywork/Matrix-Game-3.0) · [Demos](https://matrix-game-v3.github.io/)
 - **Matrix-Game 2.0 · 2025** — Co-author; **designed and built the Unreal Engine data pipeline**. Real-time interactive generation at **25 FPS**. [Paper](https://arxiv.org/abs/2508.13009) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2)
 - **Matrix-Game · 2025** — Co-author. **17B** interactive world foundation model for controllable Minecraft generation. [Paper](https://arxiv.org/abs/2506.18701) · [Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-1)
 

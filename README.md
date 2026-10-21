@@ -9,7 +9,7 @@ Former **3D Engine Technical Expert · [Tencent](https://github.com/Tencent)**
 
 [Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Data Engine](#featured-contribution--world-model-data-engine) &nbsp; / &nbsp; [Media](#media-coverage) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
 
-I build **world models and embodied AI systems**, working across simulation data engines, **World Action Models (WAMs)**, model architecture, and **post-training**.
+I am an **Algorithm Researcher at Skywork AI**, focusing on **model architecture, training, and post-training** for **world models and embodied foundation models**, including **World Action Models (WAMs)**.
 
 ## Featured Contribution — World-Model Data Engine
 

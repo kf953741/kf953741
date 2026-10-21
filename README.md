@@ -72,28 +72,21 @@ Co-author. Connects trajectory-guided panoramic video diffusion with 3D reconstr
 
 ### Riemann-1.0
 
-- [证券时报 — 昆仑万维：2026年为“世界模型元年”，三款产品布局物理AI与具身智能](https://www.stcn.com/article/detail/4071208.html)
 - [量子位 — 看了20万小时「人类干活实录」，机器人悟了](https://www.qbitai.com/2026/07/454592.html)
-
-### Matrix-Game 3.5
-
-- [证券时报 — 昆仑万维WAIC官宣“世界模型元年”：从生成内容到理解物理世界关键转折](https://www.stcn.com/article/detail/4028872.html)
-- [雷锋网（新浪科技转载）— 世界模型迎来「中国引领时刻」，昆仑万维 Matrix-Game 3.5 要迈向真实世界](https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniiufvk4588289.shtml)
+- [新浪科技 — 机器人进入世界模型时代，Riemann-1.0如何破解泛化难题？](https://finance.sina.com.cn/tech/it/2026-07-20/doc-iniimuyc2999043.shtml)
 
 ### Matrix-Game 3.0
 
-- [新华网客户端 — 昆仑万维携AIGC全家桶亮相2026中关村论坛](https://app.xinhuanet.com/news/article.html?articleId=20260330b976208b7fc046ab8487932edbc7fa6c)
 - [量子位 — 国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了](https://www.qbitai.com/2026/03/392835.html)
 
 ### Matrix-Game 2.0
 
-- [证券时报 — 昆仑万维：正式发布并开源「Matrix-Game 2.0」模型](https://www.stcn.com/article/detail/3049494.html)
-- [机器之心（新浪科技转载）— 开源版Genie 3世界模型来了：实时+长时间交互，单卡可跑，国内公司出品](https://finance.sina.com.cn/tech/2025-08-19/doc-infmntcm7796241.shtml)
+- [IT之家 — AI 生成游戏，Matrix-Game 2.0、Matrix-3D 发布并开源](https://www.ithome.com/0/874/688.htm)
+- [量子位 — 一周六连发！昆仑万维将多模态AI卷到了新高度](https://www.qbitai.com/2025/08/322418.html)
 
 ### Matrix-3D
 
-- [新智元（36氪刊载）— 李飞飞押注的「世界模型」，中国自研Matrix-3D已抢先实现了？](https://www.36kr.com/p/3419306619096455)
-- [量子位 — 拿下3D生成行业新标杆！昆仑万维Matrix-3D新模型鲨疯了，一张图建模游戏场景](https://www.qbitai.com/2025/08/321401.html)
+- [量子位 — Matrix-3D：一张图建模游戏场景](https://www.qbitai.com/2025/08/321401.html)
 
 ## Engineering & Open Source
 

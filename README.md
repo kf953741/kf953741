@@ -7,7 +7,7 @@
 **World Models & Embodied AI · [Skywork AI](https://github.com/SkyworkAI)**  
 Former **3D Engine Technical Expert · [Tencent](https://github.com/Tencent)**
 
-[Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Data Engine](#featured-contribution--world-model-data-engine) &nbsp; / &nbsp; [Media](#media-coverage) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
+[Website](https://kf953741.github.io/) &nbsp; / &nbsp; [Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Data Engine](#featured-contribution--world-model-data-engine) &nbsp; / &nbsp; [Media](#media-coverage) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
 
 My work at **Skywork AI** spans **model architecture, training, post-training, and training data development** for **world models and embodied foundation models**, including **World Action Models (WAMs)**.
 

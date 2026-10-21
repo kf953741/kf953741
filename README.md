@@ -15,13 +15,7 @@ I **pioneered and built the Unreal Engine-based data-generation pipeline introdu
 
 ## Featured Contribution — World-Model Data Engine
 
-**Designed and built from the ground up · Introduced in Matrix-Game 2.0 (2025).**
-
-I turned controllable 3D environments into a scalable source of **precisely aligned video, action, and camera supervision** for world-model training. The pipeline combines automated navigation, precise input and camera control, synchronized recording, data curation, and parallel production.
-
-- **Training impact:** Matrix-Game 2.0 reports **615 hours of Unreal Engine training data** generated through its data-production pipeline.
-- **Technical record:** The system is documented in [Matrix-Game 2.0, §3.1](https://arxiv.org/html/2508.13009); the later Unreal data system is described in [Matrix-Game 3.0, §4.1](https://arxiv.org/html/2604.08995).
-- **Research recognition:** A subsequent [Unreal Engine data-production study from JD and collaborators](https://arxiv.org/html/2609.03557) explicitly discusses Matrix-Game 3.0's data engine in its related work on world-model data construction (§2.2).
+Designed and built the **Unreal Engine data pipeline for [Matrix-Game 2.0](https://arxiv.org/abs/2508.13009)**, enabling scalable, precisely aligned video–action data for world-model training.
 
 ## Areas of Work
 

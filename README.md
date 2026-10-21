@@ -86,7 +86,7 @@ Co-author. Connects trajectory-guided panoramic video diffusion with 3D reconstr
 
 ### Matrix-3D
 
-- [量子位 — Matrix-3D：一张图建模游戏场景](https://www.qbitai.com/2025/08/321401.html)
+- [量子位 — 拿下3D生成行业新标杆！昆仑万维Matrix-3D新模型鲨疯了，一张图建模游戏场景](https://www.qbitai.com/2025/08/321401.html)
 
 ## Engineering & Open Source
 

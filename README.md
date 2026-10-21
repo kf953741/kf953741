@@ -5,6 +5,7 @@
 # Fei Kang · 康飞
 
 **AI Research & Engineering · [Skywork AI](https://github.com/SkyworkAI)**  
+Former **3D Engine Technical Expert · [Tencent](https://github.com/Tencent)**  
 World Models · Embodied Intelligence · World Action Models · Model Post-Training
 
 [Google Scholar](https://scholar.google.com/citations?user=jJwVbnAAAAAJ&hl=en) &nbsp; / &nbsp; [Data Engine](#featured-contribution--world-model-data-engine) &nbsp; / &nbsp; [Research](#selected-research) &nbsp; / &nbsp; [Engineering](#engineering--open-source)
